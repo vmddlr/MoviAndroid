@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="str_movie">Películas</string>
+    <string name="str_play_now">En cartelera</string>
+    <string name="str_populate">Populares</string>
+
+</resources>
